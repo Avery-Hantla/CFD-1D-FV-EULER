@@ -4,7 +4,7 @@ This program can be used to solve both subsonic flow and supersonic flow in a va
 
 ## Inputs 
 
-Xbounds - Domain Size
+Xbounds - Domain Size  
 num_points - Number of solution points in the domain. These are evenly distributed. 
 sigma - CFL Number
 gamma - Specific Heat Ratios
