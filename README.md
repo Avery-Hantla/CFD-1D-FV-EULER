@@ -5,14 +5,14 @@ This program can be used to solve both subsonic flow and supersonic flow in a va
 ## Inputs 
 
 Xbounds - Domain Size  
-num_points - Number of solution points in the domain. These are evenly distributed. 
-sigma - CFL Number
-gamma - Specific Heat Ratios
-order - Desired Order of Error
-N - Number of time steps to run
-islimiteron - Use minmod limiter? true/false
-flow - Flow problem 1/2
-isplot -  Plot during sim? true/false
+num_points - Number of solution points in the domain. These are evenly distributed.   
+sigma - CFL Number  
+gamma - Specific Heat Ratios  
+order - Desired Order of Error  
+N - Number of time steps to run  
+islimiteron - Use minmod limiter? true/false  
+flow - Flow problem 1/2  
+isplot -  Plot during sim? true/false  
 
 There are two flow problems implemented into the code. 
 1) Subsonic flow with an exit Mach number of 0.4. Assuming that the
